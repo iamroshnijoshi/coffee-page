@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(coffee.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vh;
+    
+}
+img{
+ border-radius: 10px;
+width: 80px;
+height: 80px;
+
+}
+.navbar{
+    width: 900px;
+    float: right;
+}
+.navbar a{
+    
+    width: 120px;
+    float: left;
+    padding-bottom: 20px;
+    margin: 10px auto;
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    font-size: large;
+}
+.head{
+    
+    margin: 0;
+    width: 300px;
+    height: 200px;
+    background-color:white;
+    padding: 55px;
+    color: black;
+    opacity: 0.4;
+
+}
+.head h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 100px;
+}
+.head h4{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 100px;
+}
+.btn form input{
+        background-color:black;
+        border: black;
+        color: white;
+        padding: 10px;
+        margin: 14px auto;
+        padding-left: 50px;
+        padding-right: 50px;
+        align-items: center;
+        
+}
